@@ -1,12 +1,4 @@
-/* 
-#main_div{
-    display: flex;
-    text-align: center;
-}
-.profile{
-  height: 210px;
-  width: 300px;
-} */
+
  #main_div {
     display: flex;
     justify-content: space-around;
