@@ -1,0 +1,27 @@
+.parent {
+    width: 700px;
+    height: 400px;
+    background-color: green;
+}
+.btn {
+    border-radius: 5px;
+    font-size: 20px;
+    color: yellow;
+    background-color: black;
+    border: 2px solid red;
+}
+.parent2 {
+    width: 700px;
+    height: 400px;
+    background-color: #801700;
+}
+.btn2 {
+    border-radius: 5px;
+    font-size: 20px;
+    color: #a9ff00;
+    background-color: #ff00925e;
+    border: 2px solid #FFEB3B;
+    padding: 20px;
+    margin-left: 200px;
+    margin-top: 23px;
+}
