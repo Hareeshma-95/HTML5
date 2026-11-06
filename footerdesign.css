@@ -58,7 +58,7 @@
     text-align: center;
 }
 .media {
-    height: 22px;
+    height: 27px;
     margin: 0 10px;
 }
 
@@ -72,7 +72,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
 }
 .media_links ul {
     display: flex;
